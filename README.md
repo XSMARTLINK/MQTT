@@ -3,6 +3,7 @@ CÁCH 1:
 Cài Mosquitto Broker trên Hassio
 Vào Settings/ Add-ons/Add-ón Stores chọn Mosquito Broker
  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/da7d21e0-c8d5-4d02-ad19-54bfa97fb6ad" />
+ 
 Chọn Configuration
 Phần loggin
 - username: home
