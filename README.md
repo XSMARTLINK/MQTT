@@ -2,6 +2,8 @@ PHẦN I: CÀI MQTT
 CÁCH 1:
 Cài Mosquitto Broker trên Hassio
 Vào Settings/ Add-ons/Add-ón Stores chọn Mosquito Broker
+<img width="417" height="356" alt="image" src="https://github.com/user-attachments/assets/7dc6384e-6429-44ea-8b99-60c36de47f70" />
+
  
 Chọn Configuration
 Phần loggin
