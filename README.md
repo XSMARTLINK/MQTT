@@ -19,6 +19,7 @@ Vào Settings/ Devices & Services
  <img width="624" height="425" alt="image" src="https://github.com/user-attachments/assets/f6138cae-c0de-4c15-92a9-97ae7d5eeb66" />
  
 Chọn “Add integration” => MQTT => Configure
+
  <img width="578" height="585" alt="image" src="https://github.com/user-attachments/assets/c4c2deba-d9f0-4a5c-aafd-cef4979a68a4" />
  
 Phần Broker: nhập địa chỉ IP của HASS
